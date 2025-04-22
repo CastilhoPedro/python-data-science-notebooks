@@ -16,8 +16,8 @@ Este repositório contém os notebooks desenvolvidos durante o curso **Python pa
 | Aula 4 / 4.1 | Visualização de Dados | Gráficos com `matplotlib` e `seaborn`: barras, linhas, histogramas e scatterplots |
 | Aula 5 / 5.1 | Análise Descritiva | Estatísticas básicas (média, mediana, moda, desvio padrão) e interpretação |
 | Aula 5 | Comandos do Professor | Notas de aula com complementos e comandos úteis |
-| Aula 6.1 | Exercício Prático | Exercício de fixação envolvendo análise descritiva e visualização |
-| Aula 7 | Machine Learning | Introdução à Machine Learning: DecisionTreeClassifier |
+| Aula 6 / 6.1 | Análise Preditiva | Regressão linear simples e múltipla para previsão de resultados |
+| Aula 7 | Análise Prescritiva | Introdução à Machine Learning: DecisionTreeClassifier |
 
 ---
 
@@ -26,7 +26,8 @@ Este repositório contém os notebooks desenvolvidos durante o curso **Python pa
 - `matplotlib`
 - `seaborn`
 - `numpy`
-- `scikit-learn` 
+- `scikit-learn`
+- `statsmodels`
 
 ---
 
